@@ -1,0 +1,33 @@
+body {
+  background-color: #a1f1e070;
+  font-family: monospace;
+  font-size: 15px;
+}
+
+.img-style {
+  border-radius: 20%;
+}
+
+.button-style {
+  background-color: lightslategray;
+  color: white;
+  padding: 10px 50px 10px 50px;
+  border-radius: 10%;
+  text-decoration: none;
+  /* &:enabled:hover {
+    background-color: yellow;
+  } */
+}
+
+/* text-align 
+   text-decoration 
+   font-family
+   color
+   background-color
+   font-size
+   font-style
+   line-height
+   font-weight
+   border-radius 
+
+*/
